@@ -30,3 +30,4 @@ Slower exploration pacing
 
 copy:
 RealmsOfAsh_CX.prg.tns to the calculator and run it with Ndless.
+<img width="1448" height="1086" alt="Untitled" src="https://github.com/user-attachments/assets/04c2d182-0e8e-4ecf-bf51-70970095eb21" />
