@@ -31,3 +31,4 @@ Slower exploration pacing
 -------------------------------
 copy:
 RealmsOfAsh_CX.prg.tns to the calculator and run it with Ndless.
+GET THE LATEST 2.5 RELEASE over there -----------------------> 
